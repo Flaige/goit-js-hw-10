@@ -1,0 +1,16 @@
+{
+  "name": "country-search",
+  "version": "1.0.0",
+  "description": "A simple application to search for countries",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "notiflix": "^3.2.5"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
